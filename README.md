@@ -1,1 +1,1 @@
-Undertaking the 30-day coding lessons and challenges.
+# 30_days_of_python
